@@ -1,0 +1,82 @@
+version 4
+
+root_actuated 0
+external_forces 0
+
+gravity 0 0 -9.81
+
+	
+segment Pelvis
+	translations xyz
+	rotations xyz
+endsegment
+
+segment Fake2
+	parent Pelvis
+	rotations xyz
+endsegment
+
+segment Fake3
+	parent Pelvis
+	rotations xyz
+endsegment
+
+segment Fake4
+	parent Pelvis
+	rotations xyz
+endsegment
+
+segment Fake5
+	parent Pelvis
+	rotations xyz
+endsegment
+
+segment Fake6
+	parent Pelvis
+	rotations xyz
+endsegment
+
+segment Fake7
+	parent Pelvis
+	rotations xyz
+endsegment
+
+segment Fake8
+	parent Pelvis
+	rotations xyz
+endsegment
+
+segment Fake9
+	parent Pelvis
+	rotations xyz
+endsegment
+
+segment Fak10
+	parent Pelvis
+	rotations xyz
+endsegment
+
+segment Fake11
+	parent Pelvis
+	rotations xyz
+endsegment
+
+segment Fake12
+	parent Pelvis
+	rotations xyz
+endsegment
+
+segment Fake13
+	parent Pelvis
+	rotations xyz
+endsegment
+
+segment Fake14
+	parent Pelvis
+	rotations xyz
+endsegment
+
+segment Fake15
+	parent Pelvis
+	rotations xyz
+endsegment
