@@ -162,3 +162,9 @@ cython_debug/
 #.idea/
 
 .idea/
+
+OCP/data/EMG_Thomas/
+
+OCP/data/
+
+*.png
